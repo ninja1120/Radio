@@ -1,2 +1,2 @@
 # Transfer To 
- [Here](GitHub.com/TeamDeeCode/VcVideoPlayer)
+ [Here](https://GitHub.com/TeamDeeCode/VcVideoPlayer)
