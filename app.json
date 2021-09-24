@@ -1,0 +1,35 @@
+{
+    "name": "Radio",
+    "description": "Telegram Radio Vc Bot",
+    "logo": "https://telegra.ph/file/9595d2a5fc64b2f17f252.jpg",
+    "keywords": [
+        "TeamDeeCode",
+        "Radio",
+        "TelegramBot"
+    ],
+    "repository": "https://github.com/TeamDeeCode/radio",
+    "env": {
+        "BOT_TOKEN": {
+            "description": "Your Telegram Bot Token from @BotFather",
+            "value": ""
+        "BOT_USERNAME": {
+            "description": "Your Telegram Bot Username Without @",
+            "value": ""
+        "BOT_NAME": {
+            "description": "Your Telegram bot name",
+            "value": ""
+        }
+    },
+    "addons": [],
+    "buildpacks": [
+        {
+            "url": "heroku/python"
+        }
+    ],
+    "formation": {
+        "worker": {
+            "quantity": 1,
+            "size": "free"
+        }
+    }
+}
