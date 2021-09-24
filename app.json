@@ -18,6 +18,9 @@
         "BOT_NAME": {
             "description": "Your Telegram bot name",
             "value": ""
+        "SESSION_NAME": {
+            "description": "Your Assistant Id String Session",
+            "value": ""
         }
     },
     "addons": [],
