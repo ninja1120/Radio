@@ -9,9 +9,9 @@
 
 # Credit 🔥 
 ```
-|🇮🇳 Louis 
-|🇮🇳 Sammy
-|🇮🇳 Blaze
+Louis 
+Sammy
+Blaze
 ```
 
 
